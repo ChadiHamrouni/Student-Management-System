@@ -1,6 +1,6 @@
  /** 
    * * Chadi Hamrouni, SE 1
-   * ! Exercice 31, 11, 16, 25
+   * ! Exercice 31, 11, 16, 25 functions are commented
   */
 var students = []
 var numberOfStudents = 0;
